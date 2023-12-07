@@ -1,0 +1,215 @@
+{
+    "cards": [
+      {
+        "id": "mt-09",
+        "title": "MT 09",
+        "image": "/assets/images/mt-09.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels de la moto MT-09"
+      },
+      {
+        "id": "bmw",
+        "title": "Moto BMW",
+        "image": "/assets/images/bmw-transformed.jpeg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels de la moto BMW"
+      },
+      {
+        "id": "bugatti",
+        "title": "Bugatti Veyron",
+        "image": "/assets/images/bugatti-Veyron.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Bugatti Veyron"
+      },
+      {
+        "id": "bugatti-chiron",
+        "title": "Bugatti Chiron",
+        "image": "/assets/images/Bugattu chiron.png",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Bugatti Chiron"
+      },
+      {
+        "id": "calavera",
+        "title": "Calavera",
+        "image": "/assets/images/calavera.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro Calavera"
+      },
+      {
+        "id": "camaro",
+        "title": "Camaro",
+        "image": "/assets/images/camaro-V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Camaro"
+      },
+      {
+        "id": "chevy-nova",
+        "title": "Chevy Nova",
+        "image": "/assets/images/Chevy Nova-V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Chevy Nova"
+      },
+      {
+        "id": "corbet",
+        "title": "Corbet",
+        "image": "/assets/images/corbet-V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Corbet"
+      },
+      {
+        "id": "datsun-carreras",
+        "title": "Datsun de Carreras",
+        "image": "/assets/images/datsun-V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Datsun de carreras"
+      },
+      {
+        "id": "datsun-deportivo",
+        "title": "Datsun Deportivo",
+        "image": "/assets/images/datsun-V2.png",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Datsun deportivo"
+      },
+      {
+        "id": "delorean",
+        "title": "DeLorean",
+        "image": "/assets/images/DeLorean.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del DeLorean"
+      },
+      {
+        "id": "honda",
+        "title": "Honda",
+        "image": "/assets/images/honda-V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro Honda"
+      },
+      {
+        "id": "hot-rod",
+        "title": "Hot Rod",
+        "image": "/assets/images/Hot Rod -V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Hot Rod"
+      },
+      {
+        "id": "lamborghini",
+        "title": "Lamborghini Veneno",
+        "image": "/assets/images/lamborghini-veneno.jpeg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Lamborghini Veneno"
+      },
+      {
+        "id": "mazda",
+        "title": "Mazda",
+        "image": "/assets/images/datsun-V2.png",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Mazda"
+      },
+      {
+        "id": "popsy",
+        "title": "Popsy",
+        "image": "/assets/images/popsy.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Popsy"
+      },
+      {
+        "id": "porshe",
+        "title": "Porshe",
+        "image": "/assets/images/porsche-V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Porshe"
+      },
+      {
+        "id": "redline-classic",
+        "title": "Redline Classic",
+        "image": "/assets/images/redline-classic.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Redline Classic"
+      },
+      {
+        "id": "rift-rally",
+        "title": "Rift Rally",
+        "image": "/assets/images/riftRally.jpeg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Rift Rally"
+      },
+      {
+        "id": "rocket-league",
+        "title": "Rocket League Carro",
+        "image": "/assets/images/roket-league-car.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro de Rocket League"
+      },
+      {
+        "id": "tiburon",
+        "title": "Tiburón",
+        "image": "/assets/images/tiburon.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro Tiburón"
+      },
+      {
+        "id": "volkswagen",
+        "title": "Volkswagen Combi",
+        "image": "/assets/images/volkswagen-combi -V1.jpg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del Volkswagen Combi"
+      },
+      {
+        "id": "yamaha-r7",
+        "title": "Yamaha R7",
+        "image": "/assets/images/yamaha-R7.png",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels de la moto Yamaha R7"
+      },
+      {
+        "id": "batman",
+        "title": "Batman",
+        "image": "/assets/images/Batman.PNG",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro de Batman"
+      },
+      {
+        "id": "dodge",
+        "title": "Dodge",
+        "image": "/assets/images/dodgeVan.PNG",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels de una van"
+      },
+      {
+        "id": "cocodrilo",
+        "title": "Cocodrilo",
+        "image": "/assets/images/Cocodrilo.PNG",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro Cocodrilo"
+      },
+      {
+        "id": "camion-monstruo",
+        "title": "Camión Monstruo",
+        "image": "/assets/images/camion mountruo.PNG",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels de un camión monstruo"
+      },
+      {
+        "id": "justin-lin",
+        "title": "Justin Lin",
+        "image": "/assets/images/justinLin.PNG",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro Justin Lin"
+      },
+      {
+        "id": "honda-monkey",
+        "title": "Honda Monkey",
+        "image": "/assets/images/hondaMonkey.jpeg",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels de la moto Honda Monkey"
+      },
+      {
+        "id": "carro-godzilla",
+        "title": "Carro Godzilla",
+        "image": "/assets/images/godzilla.PNG",
+        "prize": "$5.000",
+        "description": "Esta es la versión Hotwheels del carro Godzilla"
+      }
+    ]
+  }
+  
